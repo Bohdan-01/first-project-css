@@ -1,0 +1,48 @@
+
+
+
+@media (max-width: 576px){
+
+	.header {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	
+	}
+
+	.logo-img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.logo-text {
+		text-align: center;
+	}
+	
+	header .login {
+		text-align: center;
+		margin-top: 0;
+	}
+	.reg-in {
+		float: none;
+	}
+	header nav .menu {
+		display: flex;
+		flex-direction: column;
+		text-align: center;
+	}
+}
+
+
+
+
+
+
+
+
+@media (max-width: 710px){
+	.reg-in {
+		float: none;
+	}
+
+}
